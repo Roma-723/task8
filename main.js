@@ -7,7 +7,7 @@
 // //       return valuea==valueb                                                                    
                                                                                                     
 // // }                                                                                            
-// // console.log(({ a: 1, b: { c: 2 } }, { a: 1, b: { c: 2 } }));                                //
+// // console.log(({ a: 1, b: { c: 2 } }, { a: 1, b: { c: 2 } }));                                
                                                                                                  //
                                                                                                 //
 // function deepEqual(a, b) {                                                                  //
