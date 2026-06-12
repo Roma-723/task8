@@ -6,7 +6,7 @@
 // //       const valueb=Object.values(b)                                                             
 // //       return valuea==valueb                                                                    
                                                                                                     
-// // }                                                                                            //
+// // }                                                                                            
 // // console.log(({ a: 1, b: { c: 2 } }, { a: 1, b: { c: 2 } }));                                //
                                                                                                  //
                                                                                                 //
