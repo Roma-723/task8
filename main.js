@@ -1,7 +1,7 @@
 // // 9. Реализуй простую функцию `deepEqual(a, b)`, которая сравниваетдваобъектапозначению(рекурсивно).                                                             
                                                                                                           
-                                                                                                         //                                                          
-// // function deepEqual(a) {                                                                           //
+                                                                                                                                                                   
+// // function deepEqual(a) {                                                                           
 // //       const valuea=Object.values(a)                                                              //
 // //       const valueb=Object.values(b)                                                             //
 // //       return valuea==valueb                                                                    //
