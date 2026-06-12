@@ -18,7 +18,7 @@
 //     deepEqual([1, 2, [3]], [1, 2, [3]]); // true                                       
                                                                                          
                                                                                         
-                                                                                       //
+                                                                                       
 // function deepEqual(a, b) {                                                         //
 //   return Object.values(a).toString() === Object.values(b).toString();             //
 // }                                                                                //
