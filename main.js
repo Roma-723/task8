@@ -14,7 +14,7 @@
 //     return Object.values(a).toString() === Object.values(b).toString();                    
 // }                                                                                         
 //     deepEqual({ a: 1, b: { c: 2 } }, { a: 1, b: { c: 2 } }); // true                     
-//     deepEqual({ a: 1 }, { a: "1" }); // false                                           // 
+//     deepEqual({ a: 1 }, { a: "1" }); // false                                            
 //     deepEqual([1, 2, [3]], [1, 2, [3]]); // true                                       //
                                                                                          //
                                                                                         //
